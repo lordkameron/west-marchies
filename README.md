@@ -1,4 +1,4 @@
-# west-marchies
+# README
 
 Welcome to my note repo for West Marches games! If you're reading this you're likely a DM and a cool person too.
 
