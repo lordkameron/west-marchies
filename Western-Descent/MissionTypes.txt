@@ -1,0 +1,34 @@
+# Mission Tags #
+
+- MAIN -
+These are missions that progress the story of the campaign or have huge impacts on the setting.
+
+- RETRIEVE -
+These are missions where you must find a specified "thing" within | THE DEEP | for a client, and successfully exfiltrate with it. Most often this will be an artifact, but can also be people, coordinates, server racks, etc.
+
+- HUNT -
+These are missions where you must enter | THE DEEP |, find a target, and eliminate it. This could be key infrastructure of the Cloudbanks facility, or a synthetic gone rogue. But don't be suprised if the targets are more "organic" than you may care for.
+
+- FREE DIVE -
+These are missions without a set goal. Meant to freely explore | THE DEEP |. These are good for following up on rumors or checking out specific loactions. I imagine these ones are going to be organized primarily by players.
+
+- TROUBLESHOOTER -
+These are missions that have a high chance of Troubleshooter activity in the area. BE CAREFUL!
+
+- LOW -
+These are missions with low activity. The Warden will make checks for random encounters less often.
+
+- HIGH -
+These are missions with high activity. The Warden will make more random encounter checks!
+
+- [LOCKED] -
+These are missions that are not accepting any more players and have a set play date.
+
+- COMPLETED -
+These are missions that are no longer available and are done.
+
+- MONARCH -
+These are missions offered by MONARCH, the Artifical Omniscience of the Cloudbank Synthetics Production Facility. Completing these will further the goals of MONARCH, and may even make it less hostile to you in the future.
+
+- KILROY -
+These are missions offered by CMDR. Rachel Kilroy, CO of the Troubleshooters. Completing these will further the goals of the Troubleshooters, and may even make them less hostile to you in the future.

@@ -1,0 +1,33 @@
+# HOUSE RULES #
+
+Below are a list of rules and mods to the OG rule system to make the game work a little better for this style of play.
+
+## High Score
+Your highscore is a tally of the number of sessions you've survived. It normally doesn't mean anything other than bragging rights. But I'd like to give it some extra *OOMF*
+- Gain +1 Highscore for returning from a mission alive.
+- Gain +1 Highscore for successfully completing a mission.
+
+Progression in MOTHERSHIP is very slow. Too slow for a game like this. To get around this I think it'd be fun to spend your Highscore like experience points:
+- Spend |[3 Highscore]| to buy a new skill. You can even buy Expert and Master skills on the condition you have the prerequisites.
+
+## Rest & Recovery
+If you return from `THE DEEP`, even at 1HP remaining. You come regain *ALL YOUR HEALTH*. HOWEVER, you do not recover any WOUNDS.
+
+## Artifacts
+To reduce infighting, Artifacts cannot be sold for their established value. They are for the entire community as a whole. Any artifact returned to `THE BELL` will be held in safe keeping by Arkady. Artifacts are for Meta progression. The number of Artifacts the community holds, the more MAIN missions unlock.
+I won't write Artifact trading out entirely, nor will I write out using the Artifacts as actual items. Some missions may require using Artifacts in those ways. But that should be up to community vote on what Artifacts are to be used/traded.
+
+## The Bends
+*This is a fun one.* The Wardens will be keeping track of each character's BENDS score. This is a secret number that represents your exposure to `THE DEEP` and how much your character believes they are actually an android with implanted memories. If this value ever maxes out then you become an Android, and you lose control of your character FOREVER. You belong to `THE DEEP` now.
+
+## After Action Reports (AAR)
+If a player  writes down a report of what happened in a session, each character in that party gets a 500cr payout. Reports are ENCOURAGED TO INCLUDE:
+- The names of each player (and character) in the session.
+- The Wounds each character has, if any.
+- A rough list/bulletpoint of the events that happened. Brownie points for pointing out TOPICS OF INTEREST and things to check out later on.
+ - A rough list of items found and obtained.
+ - A rough list of NPC's encountered
+
+## Cartographer's Delight
+There is no map of `THE DEEP`. Community members are encouraged to draw out a map as they explore.
+||I'll let you peak behind the curtain a bit here and let you know *that there is indeed* a map. Quite a few in fact. If you go looking for it I'm sure you'll find one. But I'm going to trust you and pray you don't. This game is all about exploration and community involvement. One of the trademarks of a "West Marches" game is the idea of a community map. When the adventurers come home there carve out a map in a table that expands out more and more as the game goes one. More info gets added the more players interact with it. Part of the fun is coming back to find all the cool stuff other players and parties found and wrote about. HOWEVER if this proves to be a huge pain in the ass and no one likes it, then we can discuss sharing *somekind of limited map* to the community. Until then, lets trust the process and see what happens, eh?||
